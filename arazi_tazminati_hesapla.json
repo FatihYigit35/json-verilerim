@@ -1,0 +1,168 @@
+{
+    "katsayilar_ve_oranlar": {
+        "2026": {
+            "katsayilar": {
+                "ocak": 1.298934,
+                "temmuz": 1.389859
+            },
+            "oranlar": {
+                "gunluk": {
+                    "6a": 4.0,
+                    "6b": 2.7,
+                    "6c": 1.6
+                },
+                "toplam": {
+                    "6a": 80,
+                    "6b": 54,
+                    "6c": 32
+                }
+            }
+        },
+        "2025": {
+            "katsayilar": {
+                "ocak": 1.012556,
+                "temmuz": 1.170211
+            },
+            "oranlar": {
+                "gunluk": {
+                    "6a": 3.6,
+                    "6b": 2.4,
+                    "6c": 1.4
+                },
+                "toplam": {
+                    "6a": 72,
+                    "6b": 48,
+                    "6c": 28
+                }
+            }
+        },
+        "2024": {
+            "katsayilar": {
+                "ocak": 0.760871,
+                "temmuz": 0.907796
+            },
+            "oranlar": {
+                "gunluk": {
+                    "6a": 3.6,
+                    "6b": 2.4,
+                    "6c": 1.4
+                },
+                "toplam": {
+                    "6a": 72,
+                    "6b": 48,
+                    "6c": 28
+                }
+            }
+        }
+    },
+    "unvanlar": {
+        "4_yillik": {
+            "basmuhendis": {
+                "isim": "Başmühendis",
+                "oran": "6a"
+            },
+            "basmimar": {
+                "isim": "Başmimar",
+                "oran": "6a"
+            },
+            "yuksek_muhendis": {
+                "isim": "Yüksek Muhendis",
+                "oran": "6a"
+            },
+            "muhendis": {
+                "isim": "Mühendis",
+                "oran": "6a"
+            },
+            "yuksek_mimar": {
+                "isim": "Yüksek Mimar",
+                "oran": "6a"
+            },
+            "mimar": {
+                "isim": "Mimar",
+                "oran": "6a"
+            },
+            "bolge_planlayici": {
+                "isim": "Bölge Planlayıcı",
+                "oran": "6a"
+            },
+            "sehir_planlayici": {
+                "isim": "Şehir Planlayıcı",
+                "oran": "6a"
+            },
+            "jeolog": {
+                "isim": "Jeolog",
+                "oran": "6a"
+            },
+            "hidrolog": {
+                "isim": "Hidrolog",
+                "oran": "6a"
+            },
+            "hidrojeolog": {
+                "isim": "Hidrojeolog",
+                "oran": "6a"
+            },
+            "jeofizikci": {
+                "isim": "Jeofizikçi",
+                "oran": "6a"
+            },
+            "kimyager": {
+                "isim": "Kimyager",
+                "oran": "6a"
+            },
+            "fizikci": {
+                "isim": "Fizikçi",
+                "oran": "6a"
+            },
+            "jeomorfolog": {
+                "isim": "Jeomorfolog",
+                "oran": "6a"
+            },
+            "arkeolog": {
+                "isim": "Arkeolog",
+                "oran": "6a"
+            },
+            "matematikci": {
+                "isim": "Matematikçi",
+                "oran": "6a"
+            },
+            "istatistikci": {
+                "isim": "İstatistikçi",
+                "oran": "6a"
+            },
+            "astronom": {
+                "isim": "Astronom",
+                "oran": "6a"
+            },
+            "tutun_eksperi": {
+                "isim": "Tütün Eksperi",
+                "oran": "6a"
+            },
+            "teknik_ogretmen": {
+                "isim": "Teknik Öğretmen",
+                "oran": "6a"
+            },
+            "diger": {
+                "isim": "Diğer",
+                "oran": "6b"
+            }
+        },
+        "2_yillik": {
+            "yuksek_tekniker": {
+                "isim": "Yüksek Tekniker",
+                "oran": "6b"
+            },
+            "teniker": {
+                "isim": "Tekniker",
+                "oran": "6b"
+            },
+            "tutun_eksperi": {
+                "isim": "Tütün Eksperi",
+                "oran": "6b"
+            }
+        },
+        "lise": {
+            "isim": "Lise",
+            "oran": "6c"
+        }
+    }
+}
