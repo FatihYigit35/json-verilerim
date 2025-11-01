@@ -58,6 +58,7 @@
     },
     "unvanlar": {
         "dort_yillik": {
+            "isim": "Dört Yıllık",
             "basmuhendis": {
                 "isim": "Başmühendis",
                 "oran": "6a"
@@ -148,6 +149,7 @@
             }
         },
         "iki_yillik": {
+            "isim": "İki Yıllık",
             "yuksek_tekniker": {
                 "isim": "Yüksek Tekniker",
                 "oran": "6b"
