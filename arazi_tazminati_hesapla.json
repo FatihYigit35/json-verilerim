@@ -17,6 +17,11 @@
                     "6b": 54,
                     "6c": 32
                 }
+            },
+            "gosterge_ve_vergi": {
+                "gosterge": 1500,
+                "ek_gosterge": 8000,
+                "damga_vergisi": 0.00759
             }
         },
         "2025": {
@@ -35,6 +40,11 @@
                     "6b": 48,
                     "6c": 28
                 }
+            },
+            "gosterge_ve_vergi": {
+                "gosterge": 1500,
+                "ek_gosterge": 8000,
+                "damga_vergisi": 0.00759
             }
         },
         "2024": {
@@ -53,6 +63,11 @@
                     "6b": 48,
                     "6c": 28
                 }
+            },
+            "gosterge_ve_vergi": {
+                "gosterge": 1500,
+                "ek_gosterge": 8000,
+                "damga_vergisi": 0.00759
             }
         }
     },
