@@ -1,10 +1,10 @@
 {
-    "guncelleme_tarihi": "01.11.2025",
+    "guncelleme_tarihi": "05.01.2026",
     "katsayilar_ve_oranlar": {
         "2026": {
             "katsayilar": {
-                "ocak": 1.298934,
-                "temmuz": 1.389859
+                "ocak": 1.387870,
+                "temmuz": 1.484946
             },
             "oranlar": {
                 "gunluk": {
