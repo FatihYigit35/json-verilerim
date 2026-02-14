@@ -1,0 +1,453 @@
+{
+  "version": 1,
+  "last_update": "2026-02-14",
+  "dogs": [
+    {
+      "id": "mixed_breed",
+      "tr": "Melez / Kırma",
+      "en": "Mixed Breed"
+    },
+    {
+      "id": "unknown",
+      "tr": "Bilinmiyor",
+      "en": "Unknown"
+    },
+    {
+      "id": "akbash",
+      "tr": "Akbaş",
+      "en": "Akbash"
+    },
+    {
+      "id": "akita_inu",
+      "tr": "Akita Inu",
+      "en": "Akita Inu"
+    },
+    {
+      "id": "alaskan_malamute",
+      "tr": "Alaska Malamute",
+      "en": "Alaskan Malamute"
+    },
+    {
+      "id": "german_shepherd",
+      "tr": "Alman Kurdu",
+      "en": "German Shepherd"
+    },
+    {
+      "id": "american_bulldog",
+      "tr": "Amerikan Bulldog",
+      "en": "American Bulldog"
+    },
+    {
+      "id": "american_cocker",
+      "tr": "Amerikan Cocker",
+      "en": "American Cocker Spaniel"
+    },
+    {
+      "id": "staffordshire_terrier",
+      "tr": "Amerikan Staffordshire",
+      "en": "American Staffordshire Terrier"
+    },
+    {
+      "id": "australian_shepherd",
+      "tr": "Avustralya Çoban Köpeği",
+      "en": "Australian Shepherd"
+    },
+    {
+      "id": "beagle",
+      "tr": "Beagle",
+      "en": "Beagle"
+    },
+    {
+      "id": "belgian_malinois",
+      "tr": "Belçika Kurdu (Malinois)",
+      "en": "Belgian Malinois"
+    },
+    {
+      "id": "bernese_mountain",
+      "tr": "Bernese Dağ Köpeği",
+      "en": "Bernese Mountain Dog"
+    },
+    {
+      "id": "border_collie",
+      "tr": "Border Collie",
+      "en": "Border Collie"
+    },
+    {
+      "id": "boston_terrier",
+      "tr": "Boston Terrier",
+      "en": "Boston Terrier"
+    },
+    {
+      "id": "boxer",
+      "tr": "Boxer",
+      "en": "Boxer"
+    },
+    {
+      "id": "bull_terrier",
+      "tr": "Bull Terrier",
+      "en": "Bull Terrier"
+    },
+    {
+      "id": "bulldog",
+      "tr": "Bulldog (İngiliz)",
+      "en": "Bulldog"
+    },
+    {
+      "id": "cane_corso",
+      "tr": "Cane Corso",
+      "en": "Cane Corso"
+    },
+    {
+      "id": "cavalier_king_charles",
+      "tr": "Cavalier King Charles",
+      "en": "Cavalier King Charles Spaniel"
+    },
+    {
+      "id": "chihuahua",
+      "tr": "Chihuahua (Çivava)",
+      "en": "Chihuahua"
+    },
+    {
+      "id": "chow_chow",
+      "tr": "Chow Chow (Çin Aslanı)",
+      "en": "Chow Chow"
+    },
+    {
+      "id": "cocker_spaniel",
+      "tr": "Cocker Spaniel",
+      "en": "Cocker Spaniel"
+    },
+    {
+      "id": "dachshund",
+      "tr": "Dakhund (Sosis)",
+      "en": "Dachshund"
+    },
+    {
+      "id": "dalmatian",
+      "tr": "Dalmaçyalı",
+      "en": "Dalmatian"
+    },
+    {
+      "id": "great_dane",
+      "tr": "Danua",
+      "en": "Great Dane"
+    },
+    {
+      "id": "doberman",
+      "tr": "Doberman",
+      "en": "Doberman Pinscher"
+    },
+    {
+      "id": "dogo_argentino",
+      "tr": "Dogo Argentino",
+      "en": "Dogo Argentino"
+    },
+    {
+      "id": "french_bulldog",
+      "tr": "Fransız Bulldog",
+      "en": "French Bulldog"
+    },
+    {
+      "id": "golden_retriever",
+      "tr": "Golden Retriever",
+      "en": "Golden Retriever"
+    },
+    {
+      "id": "greyhound",
+      "tr": "Greyhound",
+      "en": "Greyhound"
+    },
+    {
+      "id": "husky",
+      "tr": "Husky (Sibirya Kurdu)",
+      "en": "Siberian Husky"
+    },
+    {
+      "id": "jack_russell",
+      "tr": "Jack Russell Terrier",
+      "en": "Jack Russell Terrier"
+    },
+    {
+      "id": "kangal",
+      "tr": "Kangal (Sivas Kangalı)",
+      "en": "Kangal Shepherd Dog"
+    },
+    {
+      "id": "poodle",
+      "tr": "Kaniş (Poodle)",
+      "en": "Poodle"
+    },
+    {
+      "id": "labrador",
+      "tr": "Labrador Retriever",
+      "en": "Labrador Retriever"
+    },
+    {
+      "id": "maltese",
+      "tr": "Maltese (Malta Teriyeri)",
+      "en": "Maltese"
+    },
+    {
+      "id": "mastiff",
+      "tr": "Mastiff",
+      "en": "Mastiff"
+    },
+    {
+      "id": "miniature_pinscher",
+      "tr": "Minyatür Pinscher",
+      "en": "Miniature Pinscher"
+    },
+    {
+      "id": "newfoundland",
+      "tr": "Newfoundland",
+      "en": "Newfoundland"
+    },
+    {
+      "id": "papillon",
+      "tr": "Papillon",
+      "en": "Papillon"
+    },
+    {
+      "id": "pekingese",
+      "tr": "Pekinez",
+      "en": "Pekingese"
+    },
+    {
+      "id": "pitbull",
+      "tr": "Pitbull Terrier",
+      "en": "American Pit Bull Terrier"
+    },
+    {
+      "id": "pointer",
+      "tr": "Pointer",
+      "en": "Pointer"
+    },
+    {
+      "id": "pomeranian",
+      "tr": "Pomeranian (Boo)",
+      "en": "Pomeranian"
+    },
+    {
+      "id": "pug",
+      "tr": "Pug",
+      "en": "Pug"
+    },
+    {
+      "id": "rottweiler",
+      "tr": "Rottweiler",
+      "en": "Rottweiler"
+    },
+    {
+      "id": "saint_bernard",
+      "tr": "Saint Bernard",
+      "en": "Saint Bernard"
+    },
+    {
+      "id": "samoyed",
+      "tr": "Samoyed",
+      "en": "Samoyed"
+    },
+    {
+      "id": "schnauzer",
+      "tr": "Schnauzer",
+      "en": "Schnauzer"
+    },
+    {
+      "id": "setter",
+      "tr": "Setter",
+      "en": "Irish/English Setter"
+    },
+    {
+      "id": "shar_pei",
+      "tr": "Shar Pei",
+      "en": "Shar Pei"
+    },
+    {
+      "id": "shiba_inu",
+      "tr": "Shiba Inu",
+      "en": "Shiba Inu"
+    },
+    {
+      "id": "shih_tzu",
+      "tr": "Shih Tzu",
+      "en": "Shih Tzu"
+    },
+    {
+      "id": "toy_poodle",
+      "tr": "Toy Poodle",
+      "en": "Toy Poodle"
+    },
+    {
+      "id": "yorkshire_terrier",
+      "tr": "Yorkshire Terrier",
+      "en": "Yorkshire Terrier"
+    }
+  ],
+  "cats": [
+    {
+      "id": "mixed_breed",
+      "tr": "Tekir / Melez",
+      "en": "Mixed Breed / Tabby"
+    },
+    {
+      "id": "unknown",
+      "tr": "Bilinmiyor",
+      "en": "Unknown"
+    },
+    {
+      "id": "abyssinian",
+      "tr": "Habeş Kedisi (Abyssinian)",
+      "en": "Abyssinian"
+    },
+    {
+      "id": "american_shorthair",
+      "tr": "American Shorthair",
+      "en": "American Shorthair"
+    },
+    {
+      "id": "angora",
+      "tr": "Ankara Kedisi",
+      "en": "Turkish Angora"
+    },
+    {
+      "id": "bengal",
+      "tr": "Bengal",
+      "en": "Bengal"
+    },
+    {
+      "id": "birman",
+      "tr": "Birman",
+      "en": "Birman"
+    },
+    {
+      "id": "bombay",
+      "tr": "Bombay",
+      "en": "Bombay"
+    },
+    {
+      "id": "british_longhair",
+      "tr": "British Longhair",
+      "en": "British Longhair"
+    },
+    {
+      "id": "british_shorthair",
+      "tr": "British Shorthair",
+      "en": "British Shorthair"
+    },
+    {
+      "id": "burmese",
+      "tr": "Burmese",
+      "en": "Burmese"
+    },
+    {
+      "id": "calico",
+      "tr": "Calico (Üç Renkli)",
+      "en": "Calico"
+    },
+    {
+      "id": "chartreux",
+      "tr": "Chartreux",
+      "en": "Chartreux"
+    },
+    {
+      "id": "chinchilla",
+      "tr": "Chinchilla",
+      "en": "Chinchilla"
+    },
+    {
+      "id": "cornish_rex",
+      "tr": "Cornish Rex",
+      "en": "Cornish Rex"
+    },
+    {
+      "id": "devon_rex",
+      "tr": "Devon Rex",
+      "en": "Devon Rex"
+    },
+    {
+      "id": "exotic_shorthair",
+      "tr": "Exotic Shorthair",
+      "en": "Exotic Shorthair"
+    },
+    {
+      "id": "himalayan",
+      "tr": "Himalayan",
+      "en": "Himalayan"
+    },
+    {
+      "id": "maine_coon",
+      "tr": "Maine Coon",
+      "en": "Maine Coon"
+    },
+    {
+      "id": "manx",
+      "tr": "Manx",
+      "en": "Manx"
+    },
+    {
+      "id": "munchkin",
+      "tr": "Munchkin",
+      "en": "Munchkin"
+    },
+    {
+      "id": "norwegian_forest",
+      "tr": "Norveç Orman Kedisi",
+      "en": "Norwegian Forest Cat"
+    },
+    {
+      "id": "persian",
+      "tr": "İran Kedisi (Persian)",
+      "en": "Persian"
+    },
+    {
+      "id": "ragdoll",
+      "tr": "Ragdoll",
+      "en": "Ragdoll"
+    },
+    {
+      "id": "russian_blue",
+      "tr": "Russian Blue (Mavi Rus)",
+      "en": "Russian Blue"
+    },
+    {
+      "id": "savannah",
+      "tr": "Savannah",
+      "en": "Savannah"
+    },
+    {
+      "id": "scottish_fold",
+      "tr": "Scottish Fold",
+      "en": "Scottish Fold"
+    },
+    {
+      "id": "scottish_straight",
+      "tr": "Scottish Straight",
+      "en": "Scottish Straight"
+    },
+    {
+      "id": "siamese",
+      "tr": "Siyam",
+      "en": "Siamese"
+    },
+    {
+      "id": "siberian",
+      "tr": "Sibirya Kedisi",
+      "en": "Siberian"
+    },
+    {
+      "id": "sphynx",
+      "tr": "Sfenks (Tüysüz)",
+      "en": "Sphynx"
+    },
+    {
+      "id": "tuxedo",
+      "tr": "Smokin (Tuxedo)",
+      "en": "Tuxedo"
+    },
+    {
+      "id": "van_cat",
+      "tr": "Van Kedisi",
+      "en": "Van Cat"
+    }
+  ]
+}
